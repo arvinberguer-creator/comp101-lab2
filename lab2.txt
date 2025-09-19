@@ -1,0 +1,1 @@
+When Bob clicks the repository link, Bob’s computer acts as the client and GitHub’s server is the server. Bob’s browser sends an HTTPS request asking for the repository page. GitHub’s server receives the request, finds the repository contents, and sends them back as a response. Bob’s browser receives this data and renders the page so Bob can view the files.
